@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/liujiaqi/svn6032/system/scripts/logsd/newengine'
+let g:netrw_dirhist_2='/home/liujiaqi/svn6032/system/scripts/logsd/newengine/sender/npai'
+let g:netrw_dirhist_3='/home/liujiaqi/svn6032/system/scripts/logsd/newengine'
+let g:netrw_dirhist_4='/home/liujiaqi/svn6032/core/proxy_engine/proxy_engine_core'
+let g:netrw_dirhist_5='/home/liujiaqi/svn6032/system/scripts/logsd/newengine'
+let g:netrw_dirhist_6='/home/liujiaqi/svn6032/system/scripts/logsd/newengine/sender/npai'
+let g:netrw_dirhist_7='/home/liujiaqi/WAFG2.svn/releases/v6.0.4.0/src/system/patch/6.0.4.0.28044'
