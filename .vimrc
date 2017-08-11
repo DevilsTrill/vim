@@ -8,6 +8,7 @@ set fileencoding=utf-8
 
 set autoindent
 set syntax=on
+syntax on
 set nocp
 set softtabstop=4
 set ts=4
@@ -126,5 +127,5 @@ function! LoadCscope()
   endif
 endfunction
 au BufEnter /* call LoadCscope()
-
-    
+cs add /root/work/nopsec/cscope.out /root/work/nopsec
+cs add /root/work/web/cscope.out /root/work/web
